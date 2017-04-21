@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         okButton = (Button)findViewById(R.id.ok_button);
         okButton.setOnClickListener(this);
 
-        }
+    }
 
     @Override
     public void onClick(View v) {
